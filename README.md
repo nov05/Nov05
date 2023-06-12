@@ -1,7 +1,7 @@
 # **Machine Learning / Data Science** 
 Jun 12, 2023【my notebook】[Bypass the MusicGen 30-second limitation](https://drive.google.com/file/d/1-JFtxWjBmHhmd4j7M9QSnFieUAHBnkzj)  
 Jun 09, 2023【my notebook】[MusicGen Demo](https://drive.google.com/file/d/1X8U9pLUMCwD0YjkwSMHgPnZka2hOy0NH)    
-May 08, 2023【my notebooks】
+May 08, 2023【my notebooks】  
 [Testing SimSwap (DeepFake) 1:N (one face as mask, multiple faces as target)](https://colab.research.google.com/drive/1L9p-lvFBRaiom9zXtZloXkAEWvNO2jEl)  
 [Testing SimSwap (DeepFake) N:N (multiple mask, multiple targets)](https://colab.research.google.com/drive/1L9p-lvFBRaiom9zXtZloXkAEWvNO2jEl)  
 
