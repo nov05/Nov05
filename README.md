@@ -1,8 +1,6 @@
 # **Machine Learning / Data Science** 
-Jun 12, 2023
-【my notebook】[Bypass the MusicGen 30-second limitation](https://drive.google.com/file/d/1-JFtxWjBmHhmd4j7M9QSnFieUAHBnkzj/view?usp=drive_link)  
-Jun 09, 2023  
-【my notebook】[MusicGen Demo](https://drive.google.com/file/d/1X8U9pLUMCwD0YjkwSMHgPnZka2hOy0NH/view?usp=drive_link)    
+Jun 12, 2023【my notebook】[Bypass the MusicGen 30-second limitation](https://drive.google.com/file/d/1-JFtxWjBmHhmd4j7M9QSnFieUAHBnkzj/view?usp=drive_link)  
+Jun 09, 2023【my notebook】[MusicGen Demo](https://drive.google.com/file/d/1X8U9pLUMCwD0YjkwSMHgPnZka2hOy0NH/view?usp=drive_link)    
 
 # **SAP**  
 May 10 ~ Jun 07, 2023  
@@ -10,8 +8,7 @@ May 10 ~ Jun 07, 2023
 【my repos】["Hello, world!"](https://github.com/Nov05/sap-btp-trial/blob/main/src/znov05_hello_world.clas.abap), [**ABAP2UI5**](https://github.com/Nov05/sap-abap2UI5), [ABAP Mustache](https://github.com/Nov05/sap-abap-mustache), [ABAP text adventure game](https://github.com/Nov05/sap-abap2ui5/tree/main#axage---abap-text-adventure-game-engine)  
 
 # **Others**  
-Jun 12, 2023  
-【my notebook】[How to use the Python library **Pydub** to slice, reverse, fade in/out, crossfade... audio files](https://colab.research.google.com/drive/1enS7oLn5vVLxRPFXHkwSfEJBZfwU-N9a)   
+Jun 12, 2023【my notebook】[How to use the Python library **Pydub** to slice, reverse, fade in/out, crossfade... audio files](https://colab.research.google.com/drive/1enS7oLn5vVLxRPFXHkwSfEJBZfwU-N9a)   
 
 <!---
 Nov05/Nov05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
