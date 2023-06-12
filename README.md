@@ -1,17 +1,17 @@
 # **Machine Learning / Data Science** 
 Jun 12, 2023
-[【my notebook】](https://drive.google.com/file/d/1-JFtxWjBmHhmd4j7M9QSnFieUAHBnkzj/view?usp=drive_link): Bypass the MusicGen 30-second limitation  
+【my notebook】: [Bypass the MusicGen 30-second limitation](https://drive.google.com/file/d/1-JFtxWjBmHhmd4j7M9QSnFieUAHBnkzj/view?usp=drive_link)  
 Jun 09, 2023  
-[【my notebook】](https://drive.google.com/file/d/1X8U9pLUMCwD0YjkwSMHgPnZka2hOy0NH/view?usp=drive_link): MusicGen Demo  
+【my notebook】: [MusicGen Demo](https://drive.google.com/file/d/1X8U9pLUMCwD0YjkwSMHgPnZka2hOy0NH/view?usp=drive_link)    
 
 # **SAP**  
 May 10 ~ Jun 07, 2023  
 [**SAP Developer Code Challenge – Open Source ABAP!**](https://blogs.sap.com/2023/05/10/sap-developer-code-challenge-open-source-abap/)  
-【my repos】["Hello, world!"](https://github.com/Nov05/sap-btp-trial/blob/main/src/znov05_hello_world.clas.abap), [ABAP2UI5](https://github.com/Nov05/sap-abap2UI5), [ABAP Mustache](https://github.com/Nov05/sap-abap-mustache), [ABAP text adventure game](https://github.com/Nov05/sap-abap2ui5/tree/main#axage---abap-text-adventure-game-engine)  
+【my repos】["Hello, world!"](https://github.com/Nov05/sap-btp-trial/blob/main/src/znov05_hello_world.clas.abap), [**ABAP2UI5**](https://github.com/Nov05/sap-abap2UI5), [ABAP Mustache](https://github.com/Nov05/sap-abap-mustache), [ABAP text adventure game](https://github.com/Nov05/sap-abap2ui5/tree/main#axage---abap-text-adventure-game-engine)  
 
 # **Others**  
 Jun 12, 2023  
-[ 【my notebook】](https://colab.research.google.com/drive/1enS7oLn5vVLxRPFXHkwSfEJBZfwU-N9a): How to use the Python library **Pydub** to slice, reverse, fade in/out, crossfade... audio files.   
+【my notebook】: [How to use the Python library **Pydub** to slice, reverse, fade in/out, crossfade... audio files](https://colab.research.google.com/drive/1enS7oLn5vVLxRPFXHkwSfEJBZfwU-N9a)   
 
 <!---
 Nov05/Nov05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
