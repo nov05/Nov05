@@ -8,7 +8,7 @@ Mar 13, 2023【my notebook】[ChatGPT generating Python code to draw national fl
 
 # **SAP**  
 May 10 ~ Jun 07, 2023  
-[**SAP Developer Code Challenge – Open Source ABAP!**](https://blogs.sap.com/2023/05/10/sap-developer-code-challenge-open-source-abap/)<img src="https://community.sap.com/images/bltf8824bc4298e468e/devChallenge3-1.svg" width=20>  
+[**SAP Developer Code Challenge – Open Source ABAP!**](https://blogs.sap.com/2023/05/10/sap-developer-code-challenge-open-source-abap/) <img src="https://community.sap.com/images/bltf8824bc4298e468e/devChallenge3-1.svg" width=20>  
 【my repos】["Hello, world!"](https://github.com/Nov05/sap-btp-trial/blob/main/src/znov05_hello_world.clas.abap), [**ABAP2UI5**](https://github.com/Nov05/sap-abap2UI5), [ABAP Mustache](https://github.com/Nov05/sap-abap-mustache), [ABAP text adventure game](https://github.com/Nov05/sap-abap2ui5/tree/main#axage---abap-text-adventure-game-engine)  
 
 
