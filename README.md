@@ -2,9 +2,9 @@
 Jun 15, 2023【my notebook】[Python library Gradio](https://colab.research.google.com/drive/1n7uEetKNKFV6PBu4-D59bwDY6dO9DnJn)  
 Jun 12, 2023【my notebook】[Bypass the MusicGen 30-second limit](https://drive.google.com/file/d/1-JFtxWjBmHhmd4j7M9QSnFieUAHBnkzj)  
 Jun 09, 2023【my notebook】[Testing MusicGen Demo](https://drive.google.com/file/d/1X8U9pLUMCwD0YjkwSMHgPnZka2hOy0NH) 
-May 20, 2023[【my notebook】](https://colab.research.google.com/drive/1upm3eO935KQQIA-2Kffg2hGu8387UnXp), [my notes](https://docs.google.com/document/d/1JTyNH4zYDWRktF3A3KmYhWl1xEuaeIyvRXGdeP7ZcOs)
-&emsp;1. interactive 𝐠𝐫𝐚𝐩𝐡 visualization with http://pyvis.network
-&emsp;2. use the 𝐅𝐥𝐨𝐲𝐞𝐝-𝐖𝐚𝐫𝐬𝐡𝐚𝐥𝐥 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦 to find All-Pairs Shortest Paths
+May 20, 2023[【my notebook】](https://colab.research.google.com/drive/1upm3eO935KQQIA-2Kffg2hGu8387UnXp), [my notes](https://docs.google.com/document/d/1JTyNH4zYDWRktF3A3KmYhWl1xEuaeIyvRXGdeP7ZcOs)  
+&emsp;1. interactive 𝐠𝐫𝐚𝐩𝐡 visualization with http://pyvis.network  
+&emsp;2. use the 𝐅𝐥𝐨𝐲𝐞𝐝-𝐖𝐚𝐫𝐬𝐡𝐚𝐥𝐥 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦 to find All-Pairs Shortest Paths  
 May 08, 2023【my notebooks】Testing SimSwap (DeepFake)  
 &emsp;[1:N (one face as mask, multiple faces as target)](https://colab.research.google.com/drive/1L9p-lvFBRaiom9zXtZloXkAEWvNO2jEl)  
 &emsp;[N:N (multiple mask, multiple targets)](https://colab.research.google.com/drive/1L9p-lvFBRaiom9zXtZloXkAEWvNO2jEl)  
