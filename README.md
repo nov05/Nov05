@@ -17,7 +17,7 @@ May 10 ~ Jun 07, 2023
 
 
 # **Others**  
-Jun 12, 2023【my notebook】[How to use the Python library **Pydub** to slice, reverse, fade in/out, crossfade... audio files](https://colab.research.google.com/drive/1enS7oLn5vVLxRPFXHkwSfEJBZfwU-N9a)   
+Jun 12, 2023[【my notebook】](https://colab.research.google.com/drive/1enS7oLn5vVLxRPFXHkwSfEJBZfwU-N9a)use the Python library **Pydub** to slice, reverse, fade in/out, crossfade... audio files  
 
 <!---
 Nov05/Nov05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
