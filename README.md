@@ -17,7 +17,7 @@ May 10 ~ Jun 07, 2023
 
 
 # **Others**  
-Jun 18, 2023[【my notebook】](https://colab.research.google.com/drive/1xtlfLnh24b6p8lvHU99cFEc48DnP5P0z)Python, functools.reduce()  
+Jun 18, 2023[【my notebook】](https://colab.research.google.com/drive/1xtlfLnh24b6p8lvHU99cFEc48DnP5P0z)Python, functools.**reduce()**  
 Jun 12, 2023[【my notebook】](https://colab.research.google.com/drive/1enS7oLn5vVLxRPFXHkwSfEJBZfwU-N9a)use the Python library **Pydub** to slice, reverse, fade in/out, crossfade... audio files  
 
 <!---
