@@ -18,7 +18,7 @@ May 10 ~ Jun 07, 2023
 
 # **Others**  
 Jul 07, 2023[【my notebook】](https://colab.research.google.com/drive/1qw4aG77bXoeMSmCBlPPYU6LqAHcZ-Zt6)Python **LaTex**, **midi**, create number music tabs   
-&emsp; • how to calculate midi music duration in seconds
+&emsp; • how to calculate midi music duration in seconds  
 Jul 06, 2023 tried out [the notebook](https://colab.research.google.com/drive/1yMps7e5zE81nwvIeqPy3TCQsfbsxnjx7) created by charbilalo@gmail.com, using the Python library **music21** to create Woogie Boogie music  
 Jun 18, 2023[【my notebook】](https://colab.research.google.com/drive/1xtlfLnh24b6p8lvHU99cFEc48DnP5P0z)Python, functools.**reduce()**  
 Jun 12, 2023[【my notebook】](https://colab.research.google.com/drive/1enS7oLn5vVLxRPFXHkwSfEJBZfwU-N9a)use the Python library **Pydub** to slice, reverse, fade in/out, crossfade... audio files  
