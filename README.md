@@ -1,4 +1,7 @@
 # **Machine Learning / Data Science** 
+Aug 02, 2023 Deeplearning.AI on Coursera, [**Generative AI with Large Language Models
+**](https://www.coursera.org/learn/generative-ai-with-llms)  
+&emsp; • [【my cerfitifcate】](https://coursera.org/share/abd98e71f4b17faa5c391bc2aceff982),[【my notes and code】](https://docs.google.com/document/d/1M1t4UTqVVxSyA6Kk3zWvxrbXgMvmzYXGP6F0rct71Kg)  
 Jun 15, 2023【my notebook】[Python library **Gradio**](https://colab.research.google.com/drive/1n7uEetKNKFV6PBu4-D59bwDY6dO9DnJn)  
 Jun 12, 2023【my notebook】[Bypass the MusicGen 30-second limit](https://drive.google.com/file/d/1-JFtxWjBmHhmd4j7M9QSnFieUAHBnkzj)  
 Jun 09, 2023【my notebook】[Testing **MusicGen** Demo](https://drive.google.com/file/d/1X8U9pLUMCwD0YjkwSMHgPnZka2hOy0NH)  
