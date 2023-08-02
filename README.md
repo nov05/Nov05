@@ -1,5 +1,5 @@
 # **Machine Learning / Data Science** 
-Aug 02, 2023 [**Generative AI with Large Language Models**](https://www.coursera.org/learn/generative-ai-with-llms), by Deeplearning.AI, AWS on Coursera   
+Aug 02, 2023 [**Generative AI with Large Language Models**](https://www.coursera.org/learn/generative-ai-with-llms), by Deeplearning.AI and AWS on Coursera   
 &emsp; • [【my certificate】](https://www.coursera.org/account/accomplishments/verify/ZJUFM24K956E),[【my notes and code】](https://docs.google.com/document/d/1M1t4UTqVVxSyA6Kk3zWvxrbXgMvmzYXGP6F0rct71Kg)  
 Jun 15, 2023【my notebook】[Python library **Gradio**](https://colab.research.google.com/drive/1n7uEetKNKFV6PBu4-D59bwDY6dO9DnJn)  
 Jun 12, 2023【my notebook】[Bypass the MusicGen 30-second limit](https://drive.google.com/file/d/1-JFtxWjBmHhmd4j7M9QSnFieUAHBnkzj)  
