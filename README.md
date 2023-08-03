@@ -17,6 +17,7 @@ Nov 19, 2018 ~ Jan 09, 2019 deep learning
 &emsp; •[【my repo】](https://github.com/Nov05/Udacity-PyTorch_Challenge)  
 Oct 2018 ~ Apr 26, 2019 [**Data Science Specialization**](https://www.coursera.org/specializations/jhu-data-science) (10 courses), by Johns Hopkins University and Coursera  
 &emsp; •[【my repo】](https://github.com/Nov05/Coursera-Data_Science-Capstone/tree/master), [my certificate](https://www.coursera.org/account/accomplishments/specialization/C34Q62KBDQLY)  
+...  
 
 # **SAP**  
 Jul 13, 2023 openSAP course  
@@ -24,6 +25,7 @@ Jul 13, 2023 openSAP course
 May 10 ~ Jun 07, 2023  
 &emsp; • [**SAP Developer Code Challenge – Open Source ABAP!**](https://blogs.sap.com/2023/05/10/sap-developer-code-challenge-open-source-abap/) [<img src="https://community.sap.com/images/bltf8824bc4298e468e/devChallenge3-1.svg" width=20>](https://people.sap.com/arwen.liu#reputation)  
 &emsp; 【my repos】["Hello, world!"](https://github.com/Nov05/sap-btp-trial/blob/main/src/znov05_hello_world.clas.abap), [**ABAP2UI5**](https://github.com/Nov05/sap-abap2UI5), [ABAP Mustache](https://github.com/Nov05/sap-abap-mustache), [ABAP text adventure game](https://github.com/Nov05/sap-abap2ui5/tree/main#axage---abap-text-adventure-game-engine)    
+...  
 
 # **Others**  
 Jul 07, 2023[【my notebook】](https://colab.research.google.com/drive/1qw4aG77bXoeMSmCBlPPYU6LqAHcZ-Zt6)Python  
@@ -33,6 +35,7 @@ Jul 06, 2023 tried out [the notebook](https://colab.research.google.com/drive/1y
 &emsp; • use the Python library **music21** to create Woogie Boogie music  
 Jun 18, 2023[【my notebook】](https://colab.research.google.com/drive/1xtlfLnh24b6p8lvHU99cFEc48DnP5P0z)Python, functools.**reduce()**  
 Jun 12, 2023[【my notebook】](https://colab.research.google.com/drive/1enS7oLn5vVLxRPFXHkwSfEJBZfwU-N9a)use the Python library **Pydub** to slice, reverse, fade in/out, crossfade... audio files  
+...  
 
 <!---
 Nov05/Nov05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
