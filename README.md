@@ -1,6 +1,6 @@
 # **Machine Learning / Data Science** 
 Aug 02, 2023 [**Generative AI with Large Language Models**](https://www.coursera.org/learn/generative-ai-with-llms), by Deeplearning.AI and AWS on Coursera   
-&emsp; • [my certificate](https://www.coursera.org/account/accomplishments/verify/ZJUFM24K956E),[【my notes and code】](https://docs.google.com/document/d/1M1t4UTqVVxSyA6Kk3zWvxrbXgMvmzYXGP6F0rct71Kg)  
+&emsp; • [【my notes and code】](https://docs.google.com/document/d/1M1t4UTqVVxSyA6Kk3zWvxrbXgMvmzYXGP6F0rct71Kg), [my certificate](https://www.coursera.org/account/accomplishments/verify/ZJUFM24K956E)    
 Jun 15, 2023 Python library **Gradio**[【my notebook】](https://colab.research.google.com/drive/1n7uEetKNKFV6PBu4-D59bwDY6dO9DnJn)  
 Jun 12, 2023 Bypass the MusicGen 30-second limit[【my notebook】](https://drive.google.com/file/d/1-JFtxWjBmHhmd4j7M9QSnFieUAHBnkzj)  
 Jun 09, 2023 Testing **MusicGen** Demo[【my notebook】](https://drive.google.com/file/d/1X8U9pLUMCwD0YjkwSMHgPnZka2hOy0NH)  
@@ -15,7 +15,7 @@ Mar 13, 2023 **ChatGPT** generating Python code to draw national flags[【my not
 Nov 19, 2018 ~ Jan 09, 2019 deep learning, [**PyTorch Scholarship Challenge**](https://www.udacity.com/blog/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html), by Udacity and Facebook <img src="https://raw.githubusercontent.com/Nov05/Udacity-PyTorch_Challenge/master/pictures/p60603977.jpg" width=20>  
 &emsp; •[【my repo】](https://github.com/Nov05/Udacity-PyTorch_Challenge)  
 Apr 26, 2019 Data Science Specialization (10 courses), by Johns Hopkins University and Coursera  
-&emsp; •[my certificate](https://www.coursera.org/account/accomplishments/specialization/C34Q62KBDQLY),[【my repo】] (https://github.com/Nov05/Coursera-Data_Science-Capstone/tree/master)  
+&emsp; •[【my repo】](https://github.com/Nov05/Coursera-Data_Science-Capstone/tree/master), [my certificate](https://www.coursera.org/account/accomplishments/specialization/C34Q62KBDQLY)  
 
 # **SAP**  
 Jul 13, 2023 openSAP course  
