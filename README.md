@@ -12,7 +12,8 @@ May 08, 2023 Testing **SimSwap** (DeepFake)
 &emsp; • N:N (multiple mask, multiple targets)[【my notebooks】](https://colab.research.google.com/drive/1L9p-lvFBRaiom9zXtZloXkAEWvNO2jEl)  
 Mar 13, 2023 **ChatGPT** generating Python code to draw national flags[【my notebooks】](https://colab.research.google.com/drive/1pnYkGt91ayhtS4zXEb8YVKjioj-BGb1V)  
 ...  
-Nov 19, 2018 ~ Jan 09, 2019 deep learning, [**PyTorch Scholarship Challenge**](https://www.udacity.com/blog/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html), by Udacity and Facebook <img src="https://raw.githubusercontent.com/Nov05/Udacity-PyTorch_Challenge/master/pictures/p60603977.jpg" width=20>  
+Nov 19, 2018 ~ Jan 09, 2019 deep learning
+&emsp; • [**PyTorch Scholarship Challenge**](https://www.udacity.com/blog/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html), by Udacity and Facebook <img src="https://raw.githubusercontent.com/Nov05/Udacity-PyTorch_Challenge/master/pictures/p60603977.jpg" width=20>  
 &emsp; •[【my repo】](https://github.com/Nov05/Udacity-PyTorch_Challenge)  
 Apr 26, 2019 [**Data Science Specialization**](https://www.coursera.org/specializations/jhu-data-science) (10 courses), by Johns Hopkins University and Coursera  
 &emsp; •[【my repo】](https://github.com/Nov05/Coursera-Data_Science-Capstone/tree/master), [my certificate](https://www.coursera.org/account/accomplishments/specialization/C34Q62KBDQLY)  
