@@ -12,7 +12,8 @@ May 08, 2023【my notebooks】Testing **SimSwap** (DeepFake)
 &emsp; • [N:N (multiple mask, multiple targets)](https://colab.research.google.com/drive/1L9p-lvFBRaiom9zXtZloXkAEWvNO2jEl)  
 Mar 13, 2023【my notebook】[**ChatGPT** generating Python code to draw national flags](https://colab.research.google.com/drive/1pnYkGt91ayhtS4zXEb8YVKjioj-BGb1V)  
 ...  
-Nov 19, 2018 deep learning, [**PyTorch Scholarship Challenge** by Udacity](https://github.com/Nov05/Udacity-PyTorch_Challenge)  
+Nov 19, 2018 deep learning, **PyTorch Scholarship Challenge** by Udacity <imag src="https://raw.githubusercontent.com/Nov05/Udacity-PyTorch_Challenge/master/pictures/p60603977.jpg" width=20>  
+&emsp; • [【my repo】](https://github.com/Nov05/Udacity-PyTorch_Challenge)  
 
 # **SAP**  
 Jul 13, 2023 openSAP course  
