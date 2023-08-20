@@ -1,5 +1,5 @@
 # **Machine Learning / Data Science** 
-Aug 20, 2023 [**sklego.meta**](https://colab.research.google.com/drive/1xUplu44HxDzuAuN43xG3wruM8Fm75QeU?usp=sharing)  
+Aug 20, 2023 [**sklego.meta**](https://scikit-lego.netlify.app/meta.html)[【notebook】](https://colab.research.google.com/drive/1xUplu44HxDzuAuN43xG3wruM8Fm75QeU?usp=sharing)  
 Aug 02, 2023 [**Generative AI with Large Language Models**](https://www.coursera.org/learn/generative-ai-with-llms), by Deeplearning.AI and AWS on Coursera   
 &emsp; • [【my notes and code】](https://docs.google.com/document/d/1M1t4UTqVVxSyA6Kk3zWvxrbXgMvmzYXGP6F0rct71Kg), [my certificate](https://www.coursera.org/account/accomplishments/verify/ZJUFM24K956E)    
 Jun 15, 2023 Python library **Gradio**[【my notebook】](https://colab.research.google.com/drive/1n7uEetKNKFV6PBu4-D59bwDY6dO9DnJn)  
