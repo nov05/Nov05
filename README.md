@@ -29,6 +29,7 @@ May 10 ~ Jun 07, 2023
 ...  
 
 # **Others**  
+Sep 02, 2023[【my notebook】](https://github.com/Nov05/Google-Colaboratory/blob/master/20230902_Rodrigo_click_counter_in_Python.ipynb)Python, Rodrigo's click counter  
 Sep 01, 2023[【my notebook】](https://colab.research.google.com/drive/176bHrpwqf0lpmcaWDTBVl8yMcAYkdHPE)Python, abstract vs. interface classes, library **ABC** or **typing.Protocol**?  
 Jul 07, 2023[【my notebook】](https://colab.research.google.com/drive/1qw4aG77bXoeMSmCBlPPYU6LqAHcZ-Zt6)Python  
 &emsp; • use **LaTex** to create number music tabs  
