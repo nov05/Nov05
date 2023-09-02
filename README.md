@@ -29,15 +29,15 @@ May 10 ~ Jun 07, 2023
 ...  
 
 # **Others**  
-Sep 02, 2023[【my notebook】](https://github.com/Nov05/Google-Colaboratory/blob/master/20230902_Rodrigo_click_counter_in_Python.ipynb)Python, Rodrigo's click counter  
-Sep 01, 2023[【my notebook】](https://colab.research.google.com/drive/176bHrpwqf0lpmcaWDTBVl8yMcAYkdHPE)Python, abstract vs. interface classes, library **ABC** or **typing.Protocol**?  
-Jul 07, 2023[【my notebook】](https://colab.research.google.com/drive/1qw4aG77bXoeMSmCBlPPYU6LqAHcZ-Zt6)Python  
+Sep 02, 2023 Python, Rodrigo's click counter[【my notebook】](https://github.com/Nov05/Google-Colaboratory/blob/master/20230902_Rodrigo_click_counter_in_Python.ipynb)  
+Sep 01, 2023 Python, abstract vs. interface classes, library **ABC** or **typing.Protocol**?[【my notebook】](https://colab.research.google.com/drive/176bHrpwqf0lpmcaWDTBVl8yMcAYkdHPE)  
+Jul 07, 2023 Python,[【my notebook】](https://colab.research.google.com/drive/1qw4aG77bXoeMSmCBlPPYU6LqAHcZ-Zt6)  
 &emsp; • use **LaTex** to create number music tabs  
 &emsp; • how to calculate **midi** music duration in seconds  
 Jul 06, 2023 tried out [the notebook](https://colab.research.google.com/drive/1yMps7e5zE81nwvIeqPy3TCQsfbsxnjx7) created by charbilalo@gmail.com  
 &emsp; • use the Python library **music21** to create Woogie Boogie music  
-Jun 18, 2023[【my notebook】](https://colab.research.google.com/drive/1xtlfLnh24b6p8lvHU99cFEc48DnP5P0z)Python, method **functools.reduce()**  
-Jun 12, 2023[【my notebook】](https://colab.research.google.com/drive/1enS7oLn5vVLxRPFXHkwSfEJBZfwU-N9a)use the Python library **Pydub** to slice, reverse, fade in/out, crossfade... audio files  
+Jun 18, 2023 Python, method **functools.reduce()**[【my notebook】](https://colab.research.google.com/drive/1xtlfLnh24b6p8lvHU99cFEc48DnP5P0z)  
+Jun 12, 2023 Python, use the library **Pydub** to slice, reverse, fade in/out, crossfade... audio files[【my notebook】](https://colab.research.google.com/drive/1enS7oLn5vVLxRPFXHkwSfEJBZfwU-N9a)  
 ...  
 
 <!---
