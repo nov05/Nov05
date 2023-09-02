@@ -29,13 +29,13 @@ May 10 ~ Jun 07, 2023
 ...  
 
 # **Others**  
-Sep 01, 2023[【my notebook】](https://colab.research.google.com/drive/176bHrpwqf0lpmcaWDTBVl8yMcAYkdHPE)Python, abstract vs. interface classes, library ABC vs. Protocal  
+Sep 01, 2023[【my notebook】](https://colab.research.google.com/drive/176bHrpwqf0lpmcaWDTBVl8yMcAYkdHPE)Python, abstract vs. interface classes, library **ABC** vs. **typing.Protocal**  
 Jul 07, 2023[【my notebook】](https://colab.research.google.com/drive/1qw4aG77bXoeMSmCBlPPYU6LqAHcZ-Zt6)Python  
 &emsp; • use **LaTex** to create number music tabs  
 &emsp; • how to calculate **midi** music duration in seconds  
 Jul 06, 2023 tried out [the notebook](https://colab.research.google.com/drive/1yMps7e5zE81nwvIeqPy3TCQsfbsxnjx7) created by charbilalo@gmail.com  
 &emsp; • use the Python library **music21** to create Woogie Boogie music  
-Jun 18, 2023[【my notebook】](https://colab.research.google.com/drive/1xtlfLnh24b6p8lvHU99cFEc48DnP5P0z)Python, functools.**reduce()**  
+Jun 18, 2023[【my notebook】](https://colab.research.google.com/drive/1xtlfLnh24b6p8lvHU99cFEc48DnP5P0z)Python, method **functools.reduce()**  
 Jun 12, 2023[【my notebook】](https://colab.research.google.com/drive/1enS7oLn5vVLxRPFXHkwSfEJBZfwU-N9a)use the Python library **Pydub** to slice, reverse, fade in/out, crossfade... audio files  
 ...  
 
