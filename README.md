@@ -17,7 +17,7 @@ Nov 19, 2018 ~ Jan 09, 2019 deep learning
 &emsp; • [**PyTorch Scholarship Challenge**](https://www.udacity.com/blog/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html), by Udacity and Facebook <img src="https://raw.githubusercontent.com/Nov05/Udacity-PyTorch_Challenge/master/pictures/p60603977.jpg" width=20>  
 &emsp; •[【my repo】](https://github.com/Nov05/Udacity-PyTorch_Challenge)  
 Oct 2018 ~ Apr 26, 2019 [**Data Science Specialization**](https://www.coursera.org/specializations/jhu-data-science) (10 courses), by Johns Hopkins University and Coursera  
-&emsp; •[【my repo】](https://github.com/Nov05/Coursera-Data_Science-Capstone/tree/master), [my certificate](https://www.coursera.org/account/accomplishments/specialization/C34Q62KBDQLY)  
+&emsp; •[【my repo】](https://github.com/Nov05/Coursera-Data_Science-Capstone/tree/master), [my certificate <img scr="https://raw.githubusercontent.com/Nov05/pictures/master/certificates/2023-09-02%2003_40_21-Coursera%20_%20Online%20Courses%20%26%20Credentials%20From%20Top%20Educators.%20Join%20for%20Free%20_%20Cour.jpg" width=20>](https://www.coursera.org/account/accomplishments/specialization/C34Q62KBDQLY)  
 ...  
 
 # **SAP**  
