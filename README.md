@@ -1,4 +1,5 @@
-# **Machine Learning / Data Science** 
+# **Machine Learning / Data Science**  
+Sep 08, 2023 **HuggingFace**, loading models[【my notebook】](https://github.com/Nov05/Google-Colaboratory/blob/master/20230908_loading_huggingface_models.ipynb)<img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/hf-logo.png" width=20>  
 Aug 20, 2023 Python library [**sklego.meta**](https://scikit-lego.netlify.app/meta.html)[【notebook】](https://colab.research.google.com/drive/1xUplu44HxDzuAuN43xG3wruM8Fm75QeU?usp=sharing)  
 Aug 02, 2023 [**Generative AI with Large Language Models**](https://www.coursera.org/learn/generative-ai-with-llms), by Deeplearning.AI and AWS on Coursera   
 &emsp; • [【my notes and code】](https://docs.google.com/document/d/1M1t4UTqVVxSyA6Kk3zWvxrbXgMvmzYXGP6F0rct71Kg), [my certificate <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png" width=20>](https://www.coursera.org/account/accomplishments/verify/ZJUFM24K956E)    
@@ -28,8 +29,7 @@ May 10 ~ Jun 07, 2023
 &emsp; 【my repos】["Hello, world!"](https://github.com/Nov05/sap-btp-trial/blob/main/src/znov05_hello_world.clas.abap), [**ABAP2UI5**](https://github.com/Nov05/sap-abap2UI5), [ABAP Mustache](https://github.com/Nov05/sap-abap-mustache), [ABAP text adventure game](https://github.com/Nov05/sap-abap2ui5/tree/main#axage---abap-text-adventure-game-engine)    
 ...  
 
-# **Others**  
-Sep 08, 2023 **HuggingFace**, loading models[【my notebook】](https://github.com/Nov05/Google-Colaboratory/blob/master/20230908_loading_huggingface_models.ipynb)<img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/hf-logo.png" width=20>    
+# **Others**    
 Sep 07, 2023 [**Github Action**](https://github.com/Nov05/action-push-kaggle-dataset), use it to [create a workflow](https://github.com/Nov05/kaggle--feedback-prize-ell/tree/main/.github/workflows) that uploads a repo as [a dataset to Kaggle](https://www.kaggle.com/datasets/wenjingliu/kaggle--feedback-prize-ell)    
 Sep 02, 2023 Python, Rodrigo's click counter[【my notebook】](https://github.com/Nov05/Google-Colaboratory/blob/master/20230902_Rodrigo_click_counter_in_Python.ipynb)  
 Sep 01, 2023 Python, abstract vs. interface classes, library **ABC** or **typing.Protocol**?[【my notebook】](https://colab.research.google.com/drive/176bHrpwqf0lpmcaWDTBVl8yMcAYkdHPE)  
