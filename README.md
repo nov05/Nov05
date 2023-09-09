@@ -29,6 +29,7 @@ May 10 ~ Jun 07, 2023
 ...  
 
 # **Others**  
+Sep 08, 2023 **HuggingFace**, load models[【my notebook】](https://colab.research.google.com/drive/1GABUCj34h3OOjsC8vZ7ScOsYeYuMr7qR)<img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/hf-logo.png" width=20>    
 Sep 07, 2023 [**Github Action**](https://github.com/Nov05/action-push-kaggle-dataset), use it to [create a workflow](https://github.com/Nov05/kaggle--feedback-prize-ell/tree/main/.github/workflows) that uploads a repo as [a dataset to Kaggle](https://www.kaggle.com/datasets/wenjingliu/kaggle--feedback-prize-ell)    
 Sep 02, 2023 Python, Rodrigo's click counter[【my notebook】](https://github.com/Nov05/Google-Colaboratory/blob/master/20230902_Rodrigo_click_counter_in_Python.ipynb)  
 Sep 01, 2023 Python, abstract vs. interface classes, library **ABC** or **typing.Protocol**?[【my notebook】](https://colab.research.google.com/drive/176bHrpwqf0lpmcaWDTBVl8yMcAYkdHPE)  
