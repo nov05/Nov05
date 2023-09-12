@@ -1,8 +1,10 @@
 # **Machine Learning / Data Science**  
+Sep 11, 2023 fine-tuning **DeBERTa-v3-base** with the library **Accelerate**[【my notebook】](https://drive.google.com/file/d/1E6lOeMcqIZLla2xoaWjAocCZvyTcBWeo)<img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/hf-logo.png" width=20>  
+&emsp; • deberta-v3-base (frozen) + mean pooling with attention mask + 2 fully-connected layers  
 Sep 08, 2023 **HuggingFace**, loading models[【my notebook】](https://github.com/Nov05/Google-Colaboratory/blob/master/20230908_loading_huggingface_models.ipynb)<img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/hf-logo.png" width=20>  
 Aug 20, 2023 Python library [**sklego.meta**](https://scikit-lego.netlify.app/meta.html)[【notebook】](https://colab.research.google.com/drive/1xUplu44HxDzuAuN43xG3wruM8Fm75QeU?usp=sharing)  
 Aug 02, 2023 [**Generative AI with Large Language Models**](https://www.coursera.org/learn/generative-ai-with-llms), by Deeplearning.AI and AWS on Coursera   
-&emsp; • [【my notes and code】](https://docs.google.com/document/d/1M1t4UTqVVxSyA6Kk3zWvxrbXgMvmzYXGP6F0rct71Kg), [my certificate <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png" width=20>](https://www.coursera.org/account/accomplishments/verify/ZJUFM24K956E)    
+&emsp; •[【my notes and code】](https://docs.google.com/document/d/1M1t4UTqVVxSyA6Kk3zWvxrbXgMvmzYXGP6F0rct71Kg), [my certificate <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png" width=20>](https://www.coursera.org/account/accomplishments/verify/ZJUFM24K956E)    
 Jun 15, 2023 Python library **Gradio**[【my notebook】](https://colab.research.google.com/drive/1n7uEetKNKFV6PBu4-D59bwDY6dO9DnJn)  
 Jun 12, 2023 Bypass the MusicGen 30-second limit[【my notebook】](https://drive.google.com/file/d/1-JFtxWjBmHhmd4j7M9QSnFieUAHBnkzj)  
 Jun 09, 2023 Testing **MusicGen** Demo[【my notebook】](https://drive.google.com/file/d/1X8U9pLUMCwD0YjkwSMHgPnZka2hOy0NH)  
