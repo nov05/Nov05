@@ -1,6 +1,7 @@
 # **Machine Learning / Data Science**  
 Sep 11, 2023 fine-tuning **DeBERTa-v3-base** with library **Accelerate**[【my notebook】](https://github.com/Nov05/Google-Colaboratory/blob/master/20230911_deberta_v3_base_accelerate_finetuning.ipynb)<img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/hf-logo.png" width=20>  
 &emsp; • deberta-v3-base (frozen) + mean pooling with attention mask + 2 fully-connected layers  
+&emsp; • comparison of saving and loading model methods  
 Sep 08, 2023 **HuggingFace**, loading models[【my notebook】](https://github.com/Nov05/Google-Colaboratory/blob/master/20230908_loading_huggingface_models.ipynb)<img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/hf-logo.png" width=20>  
 Aug 20, 2023 Python library [**sklego.meta**](https://scikit-lego.netlify.app/meta.html)[【notebook】](https://colab.research.google.com/drive/1xUplu44HxDzuAuN43xG3wruM8Fm75QeU?usp=sharing)  
 Aug 02, 2023 [**Generative AI with Large Language Models**](https://www.coursera.org/learn/generative-ai-with-llms), by Deeplearning.AI and AWS on Coursera   
