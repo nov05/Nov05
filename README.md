@@ -20,7 +20,7 @@ May 08, 2023 Testing **SimSwap** (DeepFake)
 &emsp; • N:N (multiple mask, multiple targets)[【my notebooks】](https://colab.research.google.com/drive/1L9p-lvFBRaiom9zXtZloXkAEWvNO2jEl)  
 Mar 13, 2023 **ChatGPT** generating Python code to draw national flags[【my notebooks】](https://colab.research.google.com/drive/1pnYkGt91ayhtS4zXEb8YVKjioj-BGb1V)  
 ...  
-Apr 10, 2020 Udacity, **Deep Learning Computer Vision** Nanodegree [【my certificate】<img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20>](confirm.udacity.com/AF2G9C95)  
+Apr 10, 2020 Udacity, **Deep Learning Computer Vision** Nanodegree [【my certificate】<img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20>](https://graduation.udacity.com/confirm/AF2G9C95)  
 &emsp;&emsp;<img src="https://github.com/Nov05/pictures/blob/master/certificates/2023-09-21%2016_18_36-learn.udacity.com_view-certificate_nd891-cn.jpg?raw=true" width=300>  
 ...  
 Nov 19, 2018 ~ Jan 09, 2019 deep learning  
