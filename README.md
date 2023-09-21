@@ -1,4 +1,5 @@
 # **Machine Learning / Data Science**  
+Sep 21, 2023 Kaggle competition, Feedback Prize - English Language Learning[【my repo】](https://github.com/nov05/kaggle--feedback-prize-ell)<img src="https://github.com/Nov05/pictures/blob/master/icons/189_Kaggle_logo_logos-512.png?raw=true" width=20>    
 Sep 11, 2023 fine-tuning **DeBERTa-v3-base** with library **Accelerate**[【my notebook】](https://github.com/Nov05/Google-Colaboratory/blob/master/20230911_deberta_v3_base_accelerate_finetuning.ipynb)<img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/hf-logo.png" width=20>  
 &emsp; • deberta-v3-base (frozen) + mean pooling with attention mask + 2 fully-connected layers  
 &emsp; • comparison of saving and loading model methods  
