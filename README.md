@@ -40,7 +40,7 @@ May 10 ~ Jun 07, 2023
 ...  
 
 # **Others**    
-Nov 08, 2023 Python, [completed all 5 levels](https://github.com/Nov05/pictures/blob/master/leetcode/001/F-aBXw0aQAEDDfr.jpg?raw=true) of [**Google foobar** code challenge](https://foobar.withgoogle.com/?eid=9QV4r), 9 problems in total <img src="https://raw.githubusercontent.com/Nov05/pictures/f61c8960d2e89d4afd795cea41e077659133b80b/icons/google-icon-logo.svg" width=20>    
+Nov 08, 2023 Python, [completed all 5 levels](https://github.com/Nov05/pictures/blob/master/leetcode/001/F-aBXw0aQAEDDfr.jpg?raw=true) of [**Google Foobar** code challenge](https://foobar.withgoogle.com/?eid=9QV4r), 9 problems in total <img src="https://raw.githubusercontent.com/Nov05/pictures/f61c8960d2e89d4afd795cea41e077659133b80b/icons/google-icon-logo.svg" width=20>    
 Sep 07, 2023 [**Github Actions**](https://github.com/Nov05/action-push-kaggle-dataset), use it to [create a workflow](https://github.com/Nov05/kaggle--feedback-prize-ell/tree/main/.github/workflows) that uploads a repo as [a dataset to Kaggle](https://www.kaggle.com/datasets/wenjingliu/kaggle--feedback-prize-ell)    
 Sep 02, 2023 Python, Rodrigo's click counter[【my notebook】](https://github.com/Nov05/Google-Colaboratory/blob/master/20230902_Rodrigo_click_counter_in_Python.ipynb)  
 Sep 01, 2023 Python, abstract vs. interface classes, library **ABC** or **typing.Protocol**?[【my notebook】](https://colab.research.google.com/drive/176bHrpwqf0lpmcaWDTBVl8yMcAYkdHPE)  
