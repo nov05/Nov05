@@ -1,4 +1,5 @@
 # **Machine Learning / Data Science**  
+Dec 06, 2023 [**Vector Databases**: from Embeddings to Applications](https://learn.deeplearning.ai/vector-databases-embeddings-applications) by DeepLearning.AI[【notebooks】](https://drive.google.com/drive/folders/1KPBacI6s4YiBwKwR5P1QGJ2cipJeby9V)
 Sep 21, 2023 Kaggle competition, Feedback Prize - English Language Learning[【my repo】](https://github.com/nov05/kaggle--feedback-prize-ell)<img src="https://github.com/Nov05/pictures/blob/master/icons/189_Kaggle_logo_logos-512.png?raw=true" width=20>    
 &emsp; • This is also the capstone project for my **Udaicty Machine Learning Nanodegree**[【my certificate】<img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20>](https://graduation.udacity.com/confirm/e/55b8d6d6-6f16-11ea-a6e6-4396b8163b1d)   
 &emsp;&emsp;<img src="https://github.com/Nov05/pictures/blob/master/certificates/2023-09-21%2016_05_03-Udacity%20Certificate%20Confirmation.jpg?raw=true" width=300>  
