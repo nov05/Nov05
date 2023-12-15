@@ -1,6 +1,6 @@
 # **Machine Learning / Data Science**  
 Dec 14, 2023 [Building and Evaluating **Advanced RAG**](https://learn.deeplearning.ai/building-evaluating-advanced-rag), a short course by DeepLearning.AI[【notebooks】](https://drive.google.com/drive/folders/1NUa9wsPDILnlhnSZu95iylnccYYzv27g)<img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png" width=20>  
-&emsp; • Python libraries **llama-index**(RAG), **trulens-eval**, openai  
+&emsp; • Python libraries **llama-index** (RAG), **trulens-eval**, openai  
 Dec 06, 2023 [**Vector Databases**: from Embeddings to Applications](https://learn.deeplearning.ai/vector-databases-embeddings-applications), a short course by DeepLearning.AI[【notebooks】](https://drive.google.com/drive/folders/1KPBacI6s4YiBwKwR5P1QGJ2cipJeby9V)<img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png" width=20>  
 &emsp; • Python library **weaviate**, openai  
 Sep 21, 2023 Kaggle competition, Feedback Prize - English Language Learning[【my repo】](https://github.com/nov05/kaggle--feedback-prize-ell)<img src="https://github.com/Nov05/pictures/blob/master/icons/189_Kaggle_logo_logos-512.png?raw=true" width=20>    
