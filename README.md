@@ -1,6 +1,7 @@
 # **Machine Learning / Data Science**  
-Dec 23, 2023 [**Reinforcement learning**, Dynamic Programming](https://learn.udacity.com/nanodegrees/nd893)    
+Dec 23, 2023 [**Reinforcement learning**, Dynamic Programming](https://learn.udacity.com/nanodegrees/nd893) <img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/hf-logo.png" width=20>      
 &emsp; • [course content](https://www.evernote.com/shard/s139/sh/ffaabbf5-ea31-5a78-213b-48167e4f0289/UMDzRqSyPGcJwIRoWuQ8P8U8FHKuHtzEgKENP5pJTi-mDtvPgXw9qtCpiA), [【notebook】](https://github.com/Nov05/Google-Colaboratory/blob/master/20230921_Reinforcement_Learning_Dynamic_Programming.ipynb)    
+&emsp; • Python library **OpenAI Gym**  
 Dec 14, 2023 [Building and Evaluating **Advanced RAG**](https://learn.deeplearning.ai/building-evaluating-advanced-rag), a short course by DeepLearning.AI[【notebooks】](https://drive.google.com/drive/folders/1NUa9wsPDILnlhnSZu95iylnccYYzv27g)<img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png" width=20>  
 &emsp; • Python libraries **llama-index** (RAG), **trulens-eval**, openai  
 Dec 06, 2023 [**Vector Databases**: from Embeddings to Applications](https://learn.deeplearning.ai/vector-databases-embeddings-applications), a short course by DeepLearning.AI[【notebooks】](https://drive.google.com/drive/folders/1KPBacI6s4YiBwKwR5P1QGJ2cipJeby9V)<img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png" width=20>  
