@@ -1,5 +1,8 @@
 # **Machine Learning / Data Science**  
-Dec 23, 2023 Reinforcement learning: [**Dynamic Programming**](https://learn.udacity.com/nanodegrees/nd893) <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20>      
+Dec 28, 2023 Reinforcement Learning: [**Monte Carlo control**](https://learn.udacity.com/nanodegrees/nd893) <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20>
+&emsp; • [course content](https://www.evernote.com/shard/s139/sh/5745a48a-3d31-a6cf-a5e7-609524cf49d1/3ibb2v7lBzC2o5PwdV0fL5lZnCKUgEyaNO2NCISXhaZsYoeTAc3Ru-fPgw)  
+&emsp; • [【notebook】](https://github.com/Nov05/Google-Colaboratory/blob/master/20231224_Reinforcement_Learning_Monte_Carlo.ipynb)  
+Dec 23, 2023 Reinforcement Learning: [**Dynamic Programming**](https://learn.udacity.com/nanodegrees/nd893) <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20>      
 &emsp; • [course content](https://www.evernote.com/shard/s139/sh/ffaabbf5-ea31-5a78-213b-48167e4f0289/UMDzRqSyPGcJwIRoWuQ8P8U8FHKuHtzEgKENP5pJTi-mDtvPgXw9qtCpiA), [【notebook】](https://github.com/Nov05/Google-Colaboratory/blob/master/20230921_Reinforcement_Learning_Dynamic_Programming.ipynb)    
 &emsp; • Python library **OpenAI Gym**  
 Dec 14, 2023 [Building and Evaluating **Advanced RAG**](https://learn.deeplearning.ai/building-evaluating-advanced-rag), a short course by DeepLearning.AI[【notebooks】](https://drive.google.com/drive/folders/1NUa9wsPDILnlhnSZu95iylnccYYzv27g)<img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png" width=20>  
