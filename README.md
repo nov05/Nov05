@@ -1,5 +1,5 @@
 # **Machine Learning / Data Science**  
-Dec 28, 2023 Reinforcement Learning: [**Monte Carlo control**](https://learn.udacity.com/nanodegrees/nd893) <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20>
+Dec 28, 2023 Reinforcement Learning: [**Monte Carlo control**](https://learn.udacity.com/nanodegrees/nd893) <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20>  
 &emsp; • [course content](https://www.evernote.com/shard/s139/sh/5745a48a-3d31-a6cf-a5e7-609524cf49d1/3ibb2v7lBzC2o5PwdV0fL5lZnCKUgEyaNO2NCISXhaZsYoeTAc3Ru-fPgw)  
 &emsp; • [【notebook】](https://github.com/Nov05/Google-Colaboratory/blob/master/20231224_Reinforcement_Learning_Monte_Carlo.ipynb)  
 Dec 23, 2023 Reinforcement Learning: [**Dynamic Programming**](https://learn.udacity.com/nanodegrees/nd893) <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20>      
