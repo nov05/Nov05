@@ -1,6 +1,6 @@
 # **Machine Learning / Data Science**  
 Jan 01, 2024 [Deep Reinforcement Learning](https://learn.udacity.com/nanodegrees/nd893): **Temporal Difference** <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20>  
-&emsp; •[【notebook】](https://github.com/Nov05/Google-Colaboratory/blob/master/20231229_Temporal_Difference.ipynb), [course content](https://www.evernote.com/shard/s139/sh/7855877f-4cde-16ac-676a-12c404428d9a/CwI92aC9i4eqdQNbQ3WopqpKF42KmfUaxBGSQJOthSSKHtRuxbIP-2sJyw)  
+&emsp; •[【notebook】](https://github.com/Nov05/Google-Colaboratory/blob/master/20231229_Temporal_Difference.ipynb), [course content](https://www.evernote.com/shard/s139/sh/7855877f-4cde-16ac-676a-12c404428d9a/CwI92aC9i4eqdQNbQ3WopqpKF42KmfUaxBGSQJOthSSKHtRuxbIP-2sJyw) (Sarsa, SarsaMax/**Q-Learning, Expected Sarsa)  
 &emsp; • Python library **OpenAI Gym**, environment 'CliffWalking-v0'  
 Dec 28, 2023 [Deep Reinforcement Learning](https://learn.udacity.com/nanodegrees/nd893): **Monte Carlo control** <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20>  
 &emsp; •[【notebook】](https://github.com/Nov05/Google-Colaboratory/blob/master/20231224_Reinforcement_Learning_Monte_Carlo.ipynb), [course content](https://www.evernote.com/shard/s139/sh/5745a48a-3d31-a6cf-a5e7-609524cf49d1/3ibb2v7lBzC2o5PwdV0fL5lZnCKUgEyaNO2NCISXhaZsYoeTAc3Ru-fPgw)    
