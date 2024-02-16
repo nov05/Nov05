@@ -1,4 +1,7 @@
 # **Machine Learning / Data Science**  
+Feb 14 2024 [Deep Reinforcement Learning](https://learn.udacity.com/nanodegrees/nd893): **Deep Q-Network** <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20>  
+&emsp; •[【notebooks】](https://github.com/nov05/udacity-deep-reinforcement-learning?tab=readme-ov-file#-unity-ml-agents-banana-collectors-project-submission), [course content](https://www.evernote.com/shard/s139/client/snv?isnewsnv=true&noteGuid=fa0ab650-ac25-d529-79b2-8dbfd0b4d4b1&noteKey=yCXdUVuaef1KmbRYNuUduyumTwFFmlHieUshzrB5cK0KdsGunib83Vw0Sw&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs139%2Fsh%2Ffa0ab650-ac25-d529-79b2-8dbfd0b4d4b1%2FyCXdUVuaef1KmbRYNuUduyumTwFFmlHieUshzrB5cK0KdsGunib83Vw0Sw&title=Reinforcement%2BLearning%2B-%2BDeep%2BQ-Networks%2B%2528DDQN%2529) (**Double DQN**, **Dueling DQN**)  
+&emsp; • Unity **ML-Agents** environment 'Banana Collector'    
 Jan 01, 2024 [Deep Reinforcement Learning](https://learn.udacity.com/nanodegrees/nd893): **Temporal Difference** <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20>  
 &emsp; •[【notebook】](https://github.com/Nov05/Google-Colaboratory/blob/master/20231229_Temporal_Difference.ipynb), [course content](https://www.evernote.com/shard/s139/sh/7855877f-4cde-16ac-676a-12c404428d9a/CwI92aC9i4eqdQNbQ3WopqpKF42KmfUaxBGSQJOthSSKHtRuxbIP-2sJyw) (Sarsa, SarsaMax/**Q-Learning**, Expected Sarsa)  
 &emsp; • Python library **OpenAI Gym**, environment 'CliffWalking-v0'  
