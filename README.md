@@ -1,16 +1,16 @@
 # **Machine Learning / Data Science**  
 Feb 14 2024 [Deep Reinforcement Learning](https://learn.udacity.com/nanodegrees/nd893): **Deep Q-Network** <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20>  
 &emsp; •[【notebooks】](https://github.com/Nov05/udacity-drlnd-p1_navigation-submission), [course content](https://www.evernote.com/shard/s139/client/snv?isnewsnv=true&noteGuid=fa0ab650-ac25-d529-79b2-8dbfd0b4d4b1&noteKey=yCXdUVuaef1KmbRYNuUduyumTwFFmlHieUshzrB5cK0KdsGunib83Vw0Sw&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs139%2Fsh%2Ffa0ab650-ac25-d529-79b2-8dbfd0b4d4b1%2FyCXdUVuaef1KmbRYNuUduyumTwFFmlHieUshzrB5cK0KdsGunib83Vw0Sw&title=Reinforcement%2BLearning%2B-%2BDeep%2BQ-Networks%2B%2528DDQN%2529) (Double DQN, **Dueling DQN**)  
-&emsp; • Unity **ML-Agents** environment 'Banana Collector'    
+&emsp; • Unity ML-Agents environment 'Banana Collector'    
 Jan 01, 2024 [Deep Reinforcement Learning](https://learn.udacity.com/nanodegrees/nd893): **Temporal Difference** <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20>  
 &emsp; •[【notebook】](https://github.com/Nov05/Google-Colaboratory/blob/master/20231229_Temporal_Difference.ipynb), [course content](https://www.evernote.com/shard/s139/sh/7855877f-4cde-16ac-676a-12c404428d9a/CwI92aC9i4eqdQNbQ3WopqpKF42KmfUaxBGSQJOthSSKHtRuxbIP-2sJyw) (Sarsa, SarsaMax/**Q-Learning**, Expected Sarsa)  
-&emsp; • Python library **OpenAI Gym**, environment 'CliffWalking-v0'  
+&emsp; • Python library OpenAI Gym, environment 'CliffWalking-v0'  
 Dec 28, 2023 [Deep Reinforcement Learning](https://learn.udacity.com/nanodegrees/nd893): **Monte Carlo control** <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20>  
 &emsp; •[【notebook】](https://github.com/Nov05/Google-Colaboratory/blob/master/20231224_Reinforcement_Learning_Monte_Carlo.ipynb), [course content](https://www.evernote.com/shard/s139/sh/5745a48a-3d31-a6cf-a5e7-609524cf49d1/3ibb2v7lBzC2o5PwdV0fL5lZnCKUgEyaNO2NCISXhaZsYoeTAc3Ru-fPgw)    
-&emsp; • Python library **OpenAI Gym**, environment 'Blackjack-v0'     
+&emsp; • Python library OpenAI Gym, environment 'Blackjack-v0'     
 Dec 23, 2023 [Deep Reinforcement Learning](https://learn.udacity.com/nanodegrees/nd893): **Dynamic Programming** <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20>      
 &emsp; •[【notebook】](https://github.com/Nov05/Google-Colaboratory/blob/master/20230921_Reinforcement_Learning_Dynamic_Programming.ipynb), [course content](https://www.evernote.com/shard/s139/sh/ffaabbf5-ea31-5a78-213b-48167e4f0289/UMDzRqSyPGcJwIRoWuQ8P8U8FHKuHtzEgKENP5pJTi-mDtvPgXw9qtCpiA)      
-&emsp; • Python library **OpenAI Gym**, FrozenLakeEnv()    
+&emsp; • Python library OpenAI Gym, FrozenLakeEnv()    
 Dec 14, 2023 [Building and Evaluating **Advanced RAG**](https://learn.deeplearning.ai/building-evaluating-advanced-rag), a short course by DeepLearning.AI[【notebooks】](https://drive.google.com/drive/folders/1NUa9wsPDILnlhnSZu95iylnccYYzv27g)<img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png" width=20>  
 &emsp; • Python libraries **llama-index** (RAG), **trulens-eval**, openai  
 Dec 06, 2023 [**Vector Databases**: from Embeddings to Applications](https://learn.deeplearning.ai/vector-databases-embeddings-applications), a short course by DeepLearning.AI[【notebooks】](https://drive.google.com/drive/folders/1KPBacI6s4YiBwKwR5P1QGJ2cipJeby9V)<img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png" width=20>  
