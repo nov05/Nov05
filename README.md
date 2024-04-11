@@ -1,5 +1,7 @@
 # **Machine Learning / Data Science**  
-Feb 14 2024 [Deep Reinforcement Learning](https://learn.udacity.com/nanodegrees/nd893): **Deep Q-Network** <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20>  
+
+Apr 11, 2024 Deep Reinforcement Learning, [**DDPG** solving Unity Reacher-v2](https://github.com/Nov05/udacity-deep-reinforcement-learning?tab=readme-ov-file#-unity-enviroment-reacher-v2-vector-game-project-submission) <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20>    
+Feb 14, 2024 [Deep Reinforcement Learning](https://learn.udacity.com/nanodegrees/nd893): **Deep Q-Network** <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20>  
 &emsp; •[【notebooks】](https://github.com/Nov05/udacity-drlnd-p1_navigation-submission), [course content](https://www.evernote.com/shard/s139/client/snv?isnewsnv=true&noteGuid=fa0ab650-ac25-d529-79b2-8dbfd0b4d4b1&noteKey=yCXdUVuaef1KmbRYNuUduyumTwFFmlHieUshzrB5cK0KdsGunib83Vw0Sw&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs139%2Fsh%2Ffa0ab650-ac25-d529-79b2-8dbfd0b4d4b1%2FyCXdUVuaef1KmbRYNuUduyumTwFFmlHieUshzrB5cK0KdsGunib83Vw0Sw&title=Reinforcement%2BLearning%2B-%2BDeep%2BQ-Networks%2B%2528DDQN%2529) (Double DQN, **Dueling DQN**)  
 &emsp; • Unity ML-Agents environment 'Banana Collector'    
 Jan 01, 2024 [Deep Reinforcement Learning](https://learn.udacity.com/nanodegrees/nd893): **Temporal Difference** <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20>  
@@ -49,6 +51,7 @@ Oct 2018 ~ Apr 26, 2019 [**Data Science Specialization**](https://www.coursera.o
 ...  
 
 # **SAP**  
+
 Jul 13, 2023 openSAP course  
 &emsp; • [**Using the Optimizer for SQLScript Programming in SAP HANA** (hanasql2)](https://open.sap.com/verify/xulir-zehyb-pylev-dahep-tegam), my badge [<img src="https://opensap-certificate.s3.openhpicloud.de/openbadges/pNCxNG9hJtieTntwmOkjm/6ExSfykgpBsfBZqOFLVt4D.png" width=20>](https://openbadgepassport.com/app/profile/202440)  
 May 10 ~ Jun 07, 2023  
@@ -57,6 +60,7 @@ May 10 ~ Jun 07, 2023
 ...  
 
 # **Others**    
+
 Nov 08, 2023 Python, [completed all 5 levels](https://github.com/Nov05/pictures/blob/master/leetcode/001/F-aBXw0aQAEDDfr.jpg?raw=true) of [**Google Foobar** code challenge](https://foobar.withgoogle.com/?eid=9QV4r), 9 problems in total[【my notebook】](https://colab.research.google.com/drive/1KdZDv-HS5zCKzJIUzsHE7Hu56NIIa-Vf)<img src="https://raw.githubusercontent.com/Nov05/pictures/f61c8960d2e89d4afd795cea41e077659133b80b/icons/google-icon-logo.svg" width=20>    
 Sep 07, 2023 [**Github Actions**](https://github.com/Nov05/action-push-kaggle-dataset), use it to [create a workflow](https://github.com/Nov05/kaggle--feedback-prize-ell/tree/main/.github/workflows) that uploads a repo as [a dataset to Kaggle](https://www.kaggle.com/datasets/wenjingliu/kaggle--feedback-prize-ell)    
 Sep 02, 2023 Python, Rodrigo's click counter[【my notebook】](https://github.com/Nov05/Google-Colaboratory/blob/master/20230902_Rodrigo_click_counter_in_Python.ipynb)  
