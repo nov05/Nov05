@@ -59,9 +59,9 @@ Jul 13, 2023 openSAP course
 May 10 ~ Jun 07, 2023  
 &emsp; • [**SAP Developer Code Challenge – Open Source ABAP**](https://blogs.sap.com/2023/05/10/sap-developer-code-challenge-open-source-abap/), my badge [<img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/2023_devChallenge3.png" width=20>](https://community.sap.com/t5/badges/userbadgespage/user-id/39117)   
 &emsp; 【my repos】["Hello, world!"](https://github.com/Nov05/sap-btp-trial/blob/main/src/znov05_hello_world.clas.abap), [**ABAP2UI5**](https://github.com/Nov05/sap-abap2UI5), [ABAP Mustache](https://github.com/Nov05/sap-abap-mustache), [ABAP text adventure game](https://github.com/Nov05/sap-abap2ui5/tree/main#axage---abap-text-adventure-game-engine)      
-Oct 1~31, 2022 SAP Octoberfest 2022 Winner [<img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/20221101_devtoberfest-2022-winner.png" width=30>](https://community.sap.com/t5/badges/userbadgespage/user-id/39117)   
+Oct 1~31, 2022 SAP Octoberfest 2022 Winner [<img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/20221101_devtoberfest-2022-winner.png" width=20>](https://community.sap.com/t5/badges/userbadgespage/user-id/39117)   
 ...     
-2008~2024 SAP Community, [**all badges**](https://community.sap.com/t5/badges/userbadgespage/user-id/39117)
+2008 /~ 2024 SAP Community, [**all badges**](https://community.sap.com/t5/badges/userbadgespage/user-id/39117)
 
 # **Others**    
 
