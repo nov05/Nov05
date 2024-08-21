@@ -52,7 +52,7 @@ Oct 2018 ~ Apr 26, 2019 [**Data Science Specialization**](https://www.coursera.o
 &emsp;&emsp;<img src="https://github.com/Nov05/pictures/blob/master/certificates/Coursera%20C34Q62KBDQLY.jpg?raw=true" width=300>  
 ...  
 
-# **SAP** <img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/20240821_SAP_2011_logo.svg.png" height=30>  
+# **SAP** <img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/20240821_SAP_2011_logo.svg.png" height=20>  
 
 Jul 13, 2023 openSAP course  
 &emsp; • [**Using the Optimizer for SQLScript Programming in SAP HANA** (hanasql2)](https://open.sap.com/verify/xulir-zehyb-pylev-dahep-tegam), my badge [<img src="https://opensap-certificate.s3.openhpicloud.de/openbadges/pNCxNG9hJtieTntwmOkjm/6ExSfykgpBsfBZqOFLVt4D.png" width=20>](https://openbadgepassport.com/app/profile/202440)  
