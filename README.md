@@ -3,7 +3,7 @@
 Oct 17, 2024 AWS Certified Machine Learning-Specialty (**MLS-C01**) <img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/20240820_aws.png" width=30>   
 &emsp; • [credential verification](https://cp.certmetrics.com/amazon/en/public/verify/credential/0b72944430404540b942e79c76d988cf), [**Credly** badge](https://www.credly.com/badges/3b5e7d87-e617-4ec9-bd7c-7f9476239204)   
 &emsp; • [【Exam prep notes】](https://docs.google.com/document/d/1bcgEvFfN4koWT4sKIescJUAhP98BNURcCuOgcj2UD8g)  
-<img src="https://raw.githubusercontent.com/Nov05/pictures/refs/heads/master/certificates/20241017_AWS%20MLS-C01_cert%20badge.png" width=200>
+<img src="https://raw.githubusercontent.com/Nov05/pictures/refs/heads/master/certificates/20241017_AWS%20MLS-C01_cert%20badge.png" width=200>   
 Sep 26, 2024 Udemy, [AWS Certified Machine Learning Specialty (**MLS-C01**) 2024 - Hands On!](https://www.udemy.com/certificate/UC-adcac499-42a8-4312-aef7-3bdc7cc6cb29/) [<img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/Udemy-logo-2024.png" width=20>](https://raw.githubusercontent.com/Nov05/pictures/refs/heads/master/certificates/20240926_udemy%20MLS-C01%20prep_UC-adcac499-42a8-4312-aef7-3bdc7cc6cb29.jpg)    
 Sep 10, 2024 AWS Certified Data Engineer-Associate (**DEA-C01**) <img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/20240820_aws.png" width=30>   
 &emsp; • [credential verification](https://cp.certmetrics.com/amazon/en/public/verify/credential/29e9e16220de4ab2911ae88a9055a31c), [**Credly** badge](https://www.credly.com/badges/3f61b622-313a-4f1c-9870-b34dec6967f6)  
