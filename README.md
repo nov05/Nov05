@@ -1,5 +1,8 @@
 # **Machine Learning / Data Science**  
 
+Nov 18, 2024 Udacity **Deep Reinforcement Learning Nanodegree** <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20>  
+&emsp; • [credential verification](https://www.udacity.com/certificate/e/0433a648-81df-11ea-a551-ef2901ed9e4b), [【my repo】](https://github.com/Nov05/udacity-deep-reinforcement-learning)   
+&emsp; • [<img src="https://raw.githubusercontent.com/Nov05/pictures/refs/heads/master/certificates/2024-11-18%2016_40_38-Learn%20the%20Latest%20Tech%20Skills%3B%20Advance%20Your%20Career%20_%20Udacity.png" width=300>](https://www.udacity.com/certificate/e/0433a648-81df-11ea-a551-ef2901ed9e4b)  
 Oct 17, 2024 AWS Certified Machine Learning-Specialty (**MLS-C01**) <img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/20240820_aws.png" width=30>   
 &emsp; • [credential verification](https://cp.certmetrics.com/amazon/en/public/verify/credential/0b72944430404540b942e79c76d988cf), [**Credly** badge](https://www.credly.com/badges/3b5e7d87-e617-4ec9-bd7c-7f9476239204),[【Exam prep notes】](https://docs.google.com/document/d/1bcgEvFfN4koWT4sKIescJUAhP98BNURcCuOgcj2UD8g)  
 <img src="https://raw.githubusercontent.com/Nov05/pictures/refs/heads/master/certificates/20241017_AWS%20MLS-C01_cert%20badge.png" width=200>   
