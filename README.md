@@ -1,5 +1,6 @@
 # **Machine Learning / Data Science**  
 
+Nov 21, 2024 Python **AutoGluon**,[【my notebook】](https://github.com/nov05/udacity-nd009t-c1-intro-to-ml-project-starter/blob/master/project-template.ipynb)   
 Nov 18, 2024 Udacity **Deep Reinforcement Learning Nanodegree** <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20>  
 &emsp; • [credential verification](https://www.udacity.com/certificate/e/0433a648-81df-11ea-a551-ef2901ed9e4b), [【my repo】](https://github.com/Nov05/udacity-deep-reinforcement-learning)   
 &emsp;&emsp;[<img src="https://raw.githubusercontent.com/Nov05/pictures/refs/heads/master/certificates/2024-11-18%2016_40_38-Learn%20the%20Latest%20Tech%20Skills%3B%20Advance%20Your%20Career%20_%20Udacity.png" width=300>](https://www.udacity.com/certificate/e/0433a648-81df-11ea-a551-ef2901ed9e4b)  
