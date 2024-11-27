@@ -1,6 +1,6 @@
 # **Machine Learning / Data Science**  
 
-Nov 27, 2024 AWS **Step Functions** and **Lambda** image classification machine learning workflow, [repo](https://github.com/nov05/udacity-nd009t-C2-Developing-ML-Workflow?tab=readme-ov-file#-project-2-submission-build-a-ml-workflow-for-scones-unlimited-on-amazon-sagemaker) <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20>      
+Nov 27, 2024 AWS **Step Functions** and **Lambda** image classification machine learning workflow, [【my repo】](https://github.com/nov05/udacity-nd009t-C2-Developing-ML-Workflow?tab=readme-ov-file#-project-2-submission-build-a-ml-workflow-for-scones-unlimited-on-amazon-sagemaker) <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20>      
 Nov 21, 2024 Python **AutoGluon**, [usage report](https://github.com/nov05/udacity-cd0385-project-starter/blob/main/project/project_report.md), [【my notebook】](https://github.com/nov05/udacity-nd009t-c1-intro-to-ml-project-starter/blob/master/project-template.ipynb)   
 Nov 18, 2024 Udacity **Deep Reinforcement Learning Nanodegree** <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20>  
 &emsp; • [credential verification](https://www.udacity.com/certificate/e/0433a648-81df-11ea-a551-ef2901ed9e4b), [【my repo】](https://github.com/Nov05/udacity-deep-reinforcement-learning)   
