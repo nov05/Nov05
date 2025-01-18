@@ -1,5 +1,8 @@
 # **Machine Learning / Data Science**  
 
+Jan 17, 2025 ETL, **AWS Athena**, query and consolidate a large number of small JSON files [<img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/youtube_red_2000x2000.png" width=20>](https://www.youtube.com/watch?v=DMazwtXpF8I)  
+  1. [ETL.ipynb](https://github.com/nov05/udacity-nd009t-capstone-starter/blob/master/starter/ETL.ipynb)
+  2. [AWS Athena Trino SQL.md](https://github.com/nov05/udacity-nd009t-capstone-starter/blob/master/starter/AWS%20Athena%20Trino%20SQL.md)  
 Jan 07, 2025 **Bayesian search theory** visualization, [【my notebook】](https://colab.research.google.com/drive/1TO9cN390GgxJNNIvUWSxW5nMORu2MmOZ) [<img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/youtube_red_2000x2000.png" width=20>](https://youtu.be/6yRYe-1EE3A)  
 Dec 19, 2024 AWS **SageMaker EC2 Training**, [【my repo】](https://github.com/nov05/udacity-aws-mle-nano-course5) [<img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/youtube_red_2000x2000.png" width=20>](https://youtu.be/yBq0Fn7Z6RU)  
 Dec 12, 2024 AWS **SegeMaker Canvas** Data Wrangler data flow: S3 to **Feature Store** group, [【my notebook】](https://github.com/nov05/udacity-aws-mle-nano-course5/blob/main/exercise_4.16/New%20data%20flow%202024-12-11%2011_07_14%20PM.ipynb) [<img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/youtube_red_2000x2000.png" width=20>](https://youtu.be/FT41tM9cDVc)  
