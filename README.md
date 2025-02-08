@@ -1,6 +1,6 @@
 # **Machine Learning / Data Science**  
 
-Feb 8, 2025 ✅ Demo project: **Terabyte-Scale Machine Learning with AWS**, [【my repo】](https://github.com/nov05/udacity-nd009t-capstone-starter) [<img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/youtube_red_2000x2000.png" width=20><img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/20240820_aws.png" width=30>](https://youtu.be/FT41tM9cDVc)   
+Feb 8, 2025 ✅ Demo project: **Terabyte-Scale Machine Learning with AWS**, [【my repo】](https://github.com/nov05/udacity-nd009t-capstone-starter) <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20> <img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/20240820_aws.png" width=30>  
 Jan 21, 2025 ETL, Develop **AWS Glue-Spark** jobs locally with Docker and VS Code [<img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/youtube_red_2000x2000.png" width=20><img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/20240820_aws.png" width=30>](https://www.youtube.com/watch?v=Kqw_1q9O2NQ)  
 &emsp; • [Text format tutorial](https://docs.google.com/document/d/1FtVdxZ283kILxVvl02-FmvLilk3uemvU_vIaJct2p5w)  
 &emsp; • [Glue PySpark EDA example notebook](https://github.com/nov05/udacity-nd009t-capstone-starter/blob/master/docker_workspace/aft-vbi-pds.ipynb)     
