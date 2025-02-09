@@ -73,7 +73,8 @@ Apr 10, 2020 Udacity, **Deep Learning Computer Vision** Nanodegree [【my certif
 ...  
 Nov 19, 2018 ~ Jan 09, 2019 deep learning  
 &emsp; • [**PyTorch Scholarship Challenge**](https://www.udacity.com/blog/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html), by Udacity and Facebook  
-&emsp; •[【my repo】](https://github.com/Nov05/Udacity-PyTorch_Challenge), my badge <img src="https://raw.githubusercontent.com/Nov05/Udacity-PyTorch_Challenge/master/pictures/p60603977.jpg" width=20>  
+&emsp; •[【my repo】](https://github.com/Nov05/Udacity-PyTorch_Challenge), my badge   
+&emsp;&emsp;<img src="https://raw.githubusercontent.com/Nov05/Udacity-PyTorch_Challenge/master/pictures/p60603977.jpg" width=200>    
 Oct 2018 ~ Apr 26, 2019 [**Data Science Specialization**](https://www.coursera.org/specializations/jhu-data-science), by Johns Hopkins University and Coursera  
 &emsp; • 10 courses, Approximately 7 months at 10 hours a week to complete     
 &emsp; •[【my repo】](https://github.com/Nov05/Coursera-Data_Science-Capstone/tree/master),[【my certificate】<img src="https://github.com/Nov05/pictures/blob/master/icons/coursera_logo_icon_169326.png?raw=true" width=20>](https://www.coursera.org/account/accomplishments/specialization/C34Q62KBDQLY)     
