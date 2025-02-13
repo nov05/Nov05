@@ -1,7 +1,7 @@
 # **Machine Learning / Data Science**  
 
 Feb 10, 2025 Udacity AWS Machine Learning Engineer Nanodegree (ND189) <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20> <img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/20240820_aws.png" width=30>    
-&emsp; • [Credential verification](https://www.udacity.com/certificate/e/f2577204-a698-11ef-a2e6-a7e29dae9af5), [LinkedIn post](https://www.linkedin.com/posts/wenjingliu7_udacity-aws-sagemaker-activity-7294923580000124928-ugDH)  
+&emsp; • [Credential verification](https://www.udacity.com/certificate/e/f2577204-a698-11ef-a2e6-a7e29dae9af5), [【my repos】](https://www.linkedin.com/posts/wenjingliu7_udacity-aws-sagemaker-activity-7294923580000124928-ugDH)  
 &emsp;&emsp;[<img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/certificates/20250210_udacity_awsmle_nanodegree.jpg" width=300>](https://www.udacity.com/certificate/e/f2577204-a698-11ef-a2e6-a7e29dae9af5)    
 Feb 08, 2025 ✅ Demo project: **Terabyte-Scale Machine Learning with AWS**, [【my repo】](https://github.com/nov05/udacity-nd009t-capstone-starter) <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20> <img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/20240820_aws.png" width=30>  
 Jan 21, 2025 ETL, Develop **AWS Glue-Spark** jobs locally with Docker and VS Code [<img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/youtube_red_2000x2000.png" width=20><img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/20240820_aws.png" width=30>](https://www.youtube.com/watch?v=Kqw_1q9O2NQ)  
