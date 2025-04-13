@@ -1,6 +1,6 @@
 # **Machine Learning / Data Science**  
 
-Apr 13, 2025 Code reviewing, classical machine learning data analysis  
+Apr 13, 2025 Code review, classical machine learning data analysis  
 &emsp; • [Project `EasyVisa`](https://drive.google.com/file/d/1tdzWAhk-HRN70GCV1krCI8SqqWlVWxTv): Supervised learning, classification models, EDA, PCA, etc.   
 &emsp; • [Project `Trade&Ahead`](https://github.com/nov05/Google-Colaboratory/blob/master/20250407_Copy_of_USL_Project_LearnerNotebook_LowCode0406.ipynb): Unsupervised learning, clustering models, flat (K-Means) vs. hierarchical (`scikit-learn` agglomerative), etc.   
 Feb 10, 2025 Udacity AWS Machine Learning Engineer Nanodegree (ND189) <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20> <img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/20240820_aws.png" width=30>    
