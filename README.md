@@ -2,7 +2,7 @@
 
 Apr 13, 2025 Code review, classical machine learning data analysis  
 &emsp; • [Project `EasyVisa`](https://drive.google.com/file/d/1tdzWAhk-HRN70GCV1krCI8SqqWlVWxTv): Supervised learning, classification models, EDA, PCA, etc.   
-&emsp; • [Project `Trade&Ahead`](https://github.com/nov05/Google-Colaboratory/blob/master/20250407_Copy_of_USL_Project_LearnerNotebook_LowCode0406.ipynb): Unsupervised learning, clustering models, flat (K-Means) vs. hierarchical (`scikit-learn` agglomerative), etc.   
+&emsp; • [Project `Trade&Ahead`](https://github.com/nov05/Google-Colaboratory/blob/master/20250407_Copy_of_USL_Project_LearnerNotebook_LowCode0406.ipynb): Unsupervised learning, clustering models, flat (K-Means) vs. hierarchical (`scikit-learn` agglomerative), `scikit-learn` pipeline, etc.   
 Feb 10, 2025 Udacity AWS Machine Learning Engineer Nanodegree (ND189) <img src="https://github.com/Nov05/pictures/blob/master/icons/clipart2667859.png?raw=true" width=20> <img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/20240820_aws.png" width=30>    
 &emsp; • [Credential verification](https://www.udacity.com/certificate/e/f2577204-a698-11ef-a2e6-a7e29dae9af5), [【my repos】](https://www.linkedin.com/posts/wenjingliu7_udacity-aws-sagemaker-activity-7294923580000124928-ugDH)  
 &emsp;&emsp;[<img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/certificates/20250210_udacity_awsmle_nanodegree.jpg" width=300>](https://www.udacity.com/certificate/e/f2577204-a698-11ef-a2e6-a7e29dae9af5)    
