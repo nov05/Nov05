@@ -1,6 +1,6 @@
 # **Machine Learning / Data Science**  
 
-May 8, 2025 Stanford **AA228V/CS238V Validation of Safety Critical Systems**   
+May 8, 2025 Stanford **AA228V/CS238V Validation of Safety Critical Systems** <img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/20250509_standford_s_block_logo.png" width=20>     
 &emsp; • [Course notes](https://docs.google.com/document/d/1HQuiqiCv641d4wJJHPVFQKXwq61u4tUCQKSmEQHSMsk)   
 &emsp; • Project 0, **Falsification introduction**, [Pluto notebook](https://nov05.github.io/htmls/stanford/Stanford-AA228VProjects/project0.html) <img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/20250509_Julia_Programming_Language_Logo.svg.png" width=30>     
 Apr 13, 2025 Code review, classical machine learning data analysis  
