@@ -1,5 +1,7 @@
 # **Machine Learning / Data Science**  
 
+May 17, 2025 Stanford Aa228V/CS238V, [Project 1 **Efficiently finding the most-likely failure**](https://www.linkedin.com/feed/update/urn:li:ugcPost:7329436992746803200/) <img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/20250509_Julia_Programming_Language_Logo.png" width=30>    
+&emsp; • [Pluto/Julia notebook(HTML)](https://nov05.github.io/htmls/stanford/Stanford-AA228VProjects/project1.html), [documentation](https://docs.google.com/document/d/1HQuiqiCv641d4wJJHPVFQKXwq61u4tUCQKSmEQHSMsk/view?tab=t.ec6hucsctlh7)  
 May 8, 2025 Stanford **AA228V/CS238V Validation of Safety Critical Systems** <img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/20250509_standford_s_block_logo.png" width=20>     
 &emsp; • [Course notes](https://docs.google.com/document/d/1HQuiqiCv641d4wJJHPVFQKXwq61u4tUCQKSmEQHSMsk)   
 &emsp; • Project 0, **Falsification introduction**, [Pluto notebook](https://nov05.github.io/htmls/stanford/Stanford-AA228VProjects/project0.html) <img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/20250509_Julia_Programming_Language_Logo.png" width=30>     
