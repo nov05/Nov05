@@ -97,7 +97,7 @@ Oct 2018 ~ Apr 26, 2019 [**Data Science Specialization**](https://www.coursera.o
 # **SAP** <img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/20240821_SAP_2011_logo.svg.png" height=20>  
 
 Jul 13, 2023 openSAP course  
-&emsp; • [**Using the Optimizer for SQLScript Programming in SAP HANA** (hanasql2)](https://open.sap.com/verify/xulir-zehyb-pylev-dahep-tegam), my badge [<img src="https://opensap-certificate.s3.openhpicloud.de/openbadges/pNCxNG9hJtieTntwmOkjm/6ExSfykgpBsfBZqOFLVt4D.png" width=20>](https://openbadgepassport.com/app/profile/202440)  
+&emsp; • [**Using the Optimizer for SQLScript Programming in SAP HANA** (hanasql2)](https://open.sap.com/verify/xulir-zehyb-pylev-dahep-tegam), my badge [<img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/SAP/badges/2023_hana_sql2.png" width=20>](https://openbadgepassport.com/app/profile/202440)  
 May 10 ~ Jun 07, 2023  
 &emsp; • [**SAP Developer Code Challenge – Open Source ABAP**](https://blogs.sap.com/2023/05/10/sap-developer-code-challenge-open-source-abap/), my badge [<img src="https://raw.githubusercontent.com/Nov05/pictures/master/icons/2023_devChallenge3.png" width=20>](https://community.sap.com/t5/badges/userbadgespage/user-id/39117)   
 &emsp; 【my repos】["Hello, world!"](https://github.com/Nov05/sap-btp-trial/blob/main/src/znov05_hello_world.clas.abap), [**ABAP2UI5**](https://github.com/Nov05/sap-abap2UI5), [ABAP Mustache](https://github.com/Nov05/sap-abap-mustache), [ABAP text adventure game](https://github.com/Nov05/sap-abap2ui5/tree/main#axage---abap-text-adventure-game-engine)      
