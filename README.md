@@ -1,5 +1,9 @@
 # **Machine Learning / Data Science**  
 
+May 28, 2025 Stanford AA228V/CS238V, [Project 2 **Efficiently estimating failure probability**]() <img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/20250509_Julia_Programming_Language_Logo.png" width=30>    
+&emsp; • [Pluto/Julia notebook(HTML)](https://nov05.github.io/htmls/stanford/Stanford-AA228VProjects/project2.html), [documentation](https://docs.google.com/document/d/1HQuiqiCv641d4wJJHPVFQKXwq61u4tUCQKSmEQHSMsk/view?tab=t.jdlp0w7brg0)  
+&emsp; • Algorithms implemented:  
+&emsp; &emsp; Adaptive importance sampling estimation (**Cross entropy method**), Bayesian estimation (Beta distribution), **Sequential Monte Carlo estimation** (aka. Particle filtering), Bridge sampling estimation     
 May 17, 2025 Stanford AA228V/CS238V, [Project 1 **Efficiently finding the most-likely failure**](https://www.linkedin.com/posts/wenjingliu7_machinelearning-decisionmaking-falsification-activity-7329436994013462529-wjqi/) <img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/20250509_Julia_Programming_Language_Logo.png" width=30>    
 &emsp; • [Pluto/Julia notebook(HTML)](https://nov05.github.io/htmls/stanford/Stanford-AA228VProjects/project1.html), [documentation](https://docs.google.com/document/d/1HQuiqiCv641d4wJJHPVFQKXwq61u4tUCQKSmEQHSMsk/view?tab=t.ec6hucsctlh7)  
 &emsp; • Algorithms implemented:  
