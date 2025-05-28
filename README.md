@@ -2,12 +2,10 @@
 
 May 28, 2025 Stanford AA228V/CS238V, [Project 2 **Efficiently estimating failure probability**]() <img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/20250509_Julia_Programming_Language_Logo.png" width=30>    
 &emsp; • [Pluto/Julia notebook(HTML)](https://nov05.github.io/htmls/stanford/Stanford-AA228VProjects/project2.html), [documentation](https://docs.google.com/document/d/1HQuiqiCv641d4wJJHPVFQKXwq61u4tUCQKSmEQHSMsk/view?tab=t.jdlp0w7brg0)  
-&emsp; • Algorithms implemented:  
-&emsp; &emsp; Adaptive importance sampling estimation (**Cross entropy method**), Bayesian estimation (Beta distribution), **Sequential Monte Carlo estimation** (aka. Particle filtering), Bridge sampling estimation     
+&emsp; • Algorithms implemented: Adaptive importance sampling estimation (**Cross entropy method**), Bayesian estimation (Beta distribution), **Sequential Monte Carlo estimation** (aka. Particle filtering), Bridge sampling estimation     
 May 17, 2025 Stanford AA228V/CS238V, [Project 1 **Efficiently finding the most-likely failure**](https://www.linkedin.com/posts/wenjingliu7_machinelearning-decisionmaking-falsification-activity-7329436994013462529-wjqi/) <img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/20250509_Julia_Programming_Language_Logo.png" width=30>    
 &emsp; • [Pluto/Julia notebook(HTML)](https://nov05.github.io/htmls/stanford/Stanford-AA228VProjects/project1.html), [documentation](https://docs.google.com/document/d/1HQuiqiCv641d4wJJHPVFQKXwq61u4tUCQKSmEQHSMsk/view?tab=t.ec6hucsctlh7)  
-&emsp; • Algorithms implemented:  
-&emsp; &emsp; Reject sampling, **fuzzing**, optimization-based falsification (**L-BFGS**), planning-based falsification (**MCTS**)   
+&emsp; • Algorithms implemented: Reject sampling, **fuzzing**, optimization-based falsification (**L-BFGS**), planning-based falsification (**MCTS**)   
 May 8, 2025 Stanford **AA228V/CS238V Validation of Safety Critical Systems** <img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/20250509_standford_s_block_logo.png" width=20>     
 &emsp; • [Course notes](https://docs.google.com/document/d/1HQuiqiCv641d4wJJHPVFQKXwq61u4tUCQKSmEQHSMsk)   
 &emsp; • Project 0, **Falsification introduction**, [Pluto notebook](https://nov05.github.io/htmls/stanford/Stanford-AA228VProjects/project0.html) <img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/20250509_Julia_Programming_Language_Logo.png" width=30>     
