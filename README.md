@@ -1,6 +1,6 @@
 # **Machine Learning / Data Science**  
 
-Jun 23, 2025 [**Generative AI with LangChain** hands-on](https://github.com/nov05/generative_ai_with_langchain?tab=readme-ov-file#-generative-ai-with-langchain-hands-on)     
+Jun 23, 2025 [**Generative AI with LangChain** hands-on](https://github.com/nov05/generative_ai_with_langchain?tab=readme-ov-file#-generative-ai-with-langchain-hands-on) <img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/20250623_Langchain--Streamline-Simple-Icons.png" width=30>       
 &emsp; • [39 notebooks in Colab](https://drive.google.com/drive/u/1/folders/1ymnY4ek6FJIviQRkI7CZnAgoMlxLwuGN)   
 &emsp; • [2 application in VS Code Dev Container](https://github.com/nov05/generative_ai_with_langchain/tree/second_edition/chapter9): Chatbot [<img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/youtube_red_2000x2000.png" width=20>](https://youtu.be/HtXdJ5J0DLY), Search [<img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/youtube_red_2000x2000.png" width=20>](https://www.youtube.com/watch?v=63BmOiUqKfE)   
 May 30, 2025 Stanford AA228V/CS238V, [Project 3 **Estimate reachable sets**](https://www.linkedin.com/posts/wenjingliu7_machinelearning-decisionmaking-falsification-activity-7334124215131930625-CKDD/) <img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/20250509_Julia_Programming_Language_Logo.png" width=30>   
