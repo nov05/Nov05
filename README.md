@@ -1,5 +1,6 @@
 # **Machine Learning / Data Science**  
 
+Dec 18, 2025 [Upload and knit R script in Posit Cloud (R Cloud) and poublish to RPubs](https://www.linkedin.com/posts/wenjingliu7_20251218-upload-and-knit-r-script-in-posit-activity-7407683321532473344-894v) [<img src="" width=20>](https://youtu.be/G-hfiS8QUic)  
 Jun 23, 2025 [**Generative AI with LangChain** hands-on](https://github.com/nov05/generative_ai_with_langchain?tab=readme-ov-file#-generative-ai-with-langchain-hands-on) <img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/20250623_Langchain--Streamline-Simple-Icons.png" width=30>       
 &emsp; • [39 notebooks in Colab](https://drive.google.com/drive/u/1/folders/1ymnY4ek6FJIviQRkI7CZnAgoMlxLwuGN)   
 &emsp; • [2 application in VS Code Dev Container](https://github.com/nov05/generative_ai_with_langchain/tree/second_edition/chapter9): Chatbot [<img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/youtube_red_2000x2000.png" width=20>](https://youtu.be/HtXdJ5J0DLY), Search [<img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/youtube_red_2000x2000.png" width=20>](https://www.youtube.com/watch?v=63BmOiUqKfE)   
