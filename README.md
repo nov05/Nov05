@@ -1,6 +1,6 @@
 # **Machine Learning / Data Science**  
 
-May 07, 2026 Finished the following [Google Skills paths](https://github.com/nov05/pictures/blob/master/Google%20Skills/readme.md)      
+May 07, 2026 Finished the following [Google Skills paths](https://github.com/nov05/pictures/blob/master/Google%20Skills/readme.md) <img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/20260326_Google-cloud-platform.svg.png" width=25>      
 &emsp; • [**Hybrid and Multi-Cloud Architect**](https://www.skills.google/paths/13), **101.5 hours**	  
 &emsp; • [Agentic AI on Google Cloud](https://www.skills.google/paths/3273), 41 hours   
 &emsp; • [Cloud Architect Accelerated Path for AWS professionals](https://www.skills.google/paths/125), 86 hours     
