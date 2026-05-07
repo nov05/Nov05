@@ -1,5 +1,9 @@
 # **Machine Learning / Data Science**  
 
+May 07, 2026 Finished the following [Google Skills paths](https://github.com/nov05/pictures/blob/master/Google%20Skills/readme.md)      
+&emsp; • [**Hybrid and Multi-Cloud Architect**](https://www.skills.google/paths/13), **101.5 hours**	  
+&emsp; • [Agentic AI on Google Cloud](https://www.skills.google/paths/3273), 41 hours   
+&emsp; • [Cloud Architect Accelerated Path for AWS professionals](https://www.skills.google/paths/125), 86 hours     
 Apr 09, 2026 [Deploy a multi-agent app with Google Agent Development Kit (ADK)](https://github.com/nov05/gcp-adk-challenge-lab) [<img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/youtube_red_2000x2000.png" width=20>](https://www.youtube.com/watch?v=h4aQ6nxp4Yc) <img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/20260326_Google-cloud-platform.svg.png" width=25>  
 Mar 25, 2026 ✅ [Build a DevOps Pipeline with Cloud Build on Google Cloud Platform](https://github.com/nov05/gcp-devops-repo-example/) [<img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/youtube_red_2000x2000.png" width=20>](https://youtu.be/NstoD4M8Oig) <img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/20260326_Google-cloud-platform.svg.png" width=25>    
 Dec 18, 2025 [Upload and knit R script in Posit Cloud (R Cloud) and poublish to RPubs](https://www.linkedin.com/posts/wenjingliu7_20251218-upload-and-knit-r-script-in-posit-activity-7407683321532473344-894v) [<img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/youtube_red_2000x2000.png" width=20>](https://youtu.be/G-hfiS8QUic) <img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/20260326_R_logo.svg.png" width=25>  
