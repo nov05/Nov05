@@ -1,7 +1,7 @@
 # **Machine Learning / Data Science**  
 
 May 13, 2026 Created Bash scripts to fully automate `Google Skills` lab tasks related to **Cloud Compute, Dataplex, BigQuery, Firebase, and so on** <img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/20260326_Google-cloud-platform.svg.png" width=25>   
-&emsp; • [Check the scripts](https://github.com/nov05/gcp-skills-boost#-google-skills-labs-automation)   
+&emsp; • [Check my scripts](https://github.com/nov05/gcp-skills-boost#-google-skills-labs-automation)   
 &emsp; • [Check my `Google Skills` badges](https://www.skills.google/public_profiles/c87d06b6-62a5-4771-9b2d-7ff6bf3aacde)   
 May 07, 2026 Finished the following [Google Skills paths](https://github.com/nov05/pictures/blob/master/Google%20Skills/readme.md) <img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/20260326_Google-cloud-platform.svg.png" width=25>      
 &emsp; • [**Hybrid and Multi-Cloud Architect**](https://www.skills.google/paths/13), **101.5 hours**	  
