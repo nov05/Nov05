@@ -1,7 +1,7 @@
 # **Machine Learning / Data Science**  
 
 May 16, 2026 Google Skills lab: [Develop Serverless Apps with Firebase - Challenge Lab (GSP344)](https://github.com/nov05/nov05-gcp-skills-boost/tree/main/labs/GSP344%20Develop%20Serverless%20Apps%20with%20Firebase%20-%20Challenge%20Lab) <img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/20260326_Google-cloud-platform.svg.png" width=20>          
-&emsp; • Serverless microservice app on Google `Cloud Run`, with runtime environment variables injection     
+&emsp; • Serverless microservice app on Google `Cloud Run`, with runtime environment variables injection for frontend       
 &emsp; • App architecture: Google Firebase, database REST API service, frontend service    
 May 15, 2026 Google Skills lab: [Build Infrastructure with Terraform on Google Cloud: Challenge Lab](https://github.com/nov05/nov05-gcp-skills-boost/tree/main/labs/GSP345%20Build%20Infrastructure%20with%20Terraform%20on%20Google%20Cloud%20-%20Challenge%20Lab) [<img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/youtube_red_2000x2000.png" width=20>](https://www.youtube.com/watch?v=yzIAZQlkk1U) <img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/20260326_Google-cloud-platform.svg.png" width=20> <img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/20260515_HashiCorp%20Terraform.png" width=20>   
 &emsp; • ✅ [Bash/Terraform script](https://github.com/nov05/nov05-gcp-skills-boost/blob/main/bash-scripts/gsp345.sh)   
