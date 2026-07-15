@@ -134,12 +134,13 @@ Oct 1~31, 2022 SAP Octoberfest 2022 Winner [<img src="https://raw.githubusercont
 
 # **Others**    
 
+Jul 14, 2026 Python, generate **LaTex** to format [kalimba tabs for `Canon in D`](https://drive.google.com/file/d/1Bkx6KsB5EEHX89oM7awD4rKGXhb38f4E),[【my notebook】](https://colab.research.google.com/drive/1w93pM47Os2YSGNsdM1XUtOW6yPiFZR4Q)    
 Nov 08, 2023 Python, [completed all 5 levels](https://github.com/Nov05/pictures/blob/master/leetcode/001/F-aBXw0aQAEDDfr.jpg?raw=true) of [**Google Foobar** code challenge](https://foobar.withgoogle.com/?eid=9QV4r), 9+1 problems in total[【my notebook】](https://colab.research.google.com/drive/1KdZDv-HS5zCKzJIUzsHE7Hu56NIIa-Vf)<img src="https://raw.githubusercontent.com/Nov05/pictures/f61c8960d2e89d4afd795cea41e077659133b80b/icons/google-icon-logo.svg" width=20>    
 Sep 07, 2023 [**Github Actions**](https://github.com/Nov05/action-push-kaggle-dataset), use it to [create a workflow](https://github.com/Nov05/kaggle--feedback-prize-ell/tree/main/.github/workflows) that uploads a repo as [a dataset to Kaggle](https://www.kaggle.com/datasets/wenjingliu/kaggle--feedback-prize-ell)    
 Sep 02, 2023 Python, Rodrigo's click counter[【my notebook】](https://github.com/Nov05/Google-Colaboratory/blob/master/20230902_Rodrigo_click_counter_in_Python.ipynb)  
 Sep 01, 2023 Python, abstract vs. interface classes, library **ABC** or **typing.Protocol**?[【my notebook】](https://colab.research.google.com/drive/176bHrpwqf0lpmcaWDTBVl8yMcAYkdHPE)  
 Jul 07, 2023 Python,[【my notebook】](https://colab.research.google.com/drive/1qw4aG77bXoeMSmCBlPPYU6LqAHcZ-Zt6)  
-&emsp; • use **LaTex** to create number music tabs  
+&emsp; • use Python to generate **LaTex** to format [number kalimba tabs for `The Sound of Silence`](https://drive.google.com/file/d/1p7NfhAJnIruL2Zc4BCqAvLDoB0lmbdGz)       
 &emsp; • how to calculate **midi** music duration in seconds  
 Jul 06, 2023 tried out [the notebook](https://colab.research.google.com/drive/1yMps7e5zE81nwvIeqPy3TCQsfbsxnjx7) created by charbilalo@gmail.com  
 &emsp; • use the Python library **music21** to create Woogie Boogie music  
