@@ -1,5 +1,7 @@
 # **Machine Learning / Data Science**  
 
+Jun 30, 2026 Google Skills Arcade: [June 2026 Games](https://docs.google.com/document/d/17iMpVCALHSoYOevKprBKqasOMGgkyA5Mwk2hxtJmxmo/view?tab=t.0#heading=h.lq7u68eopj0i)    
+&emsp; • [Google Cloud shell Bash scripts](https://github.com/nov05/nov05-gcp-skills-boost)  
 May 16, 2026 Google Skills lab: [Develop Serverless Apps with Firebase - Challenge Lab (GSP344)](https://github.com/nov05/nov05-gcp-skills-boost/tree/main/labs/GSP344%20Develop%20Serverless%20Apps%20with%20Firebase%20-%20Challenge%20Lab) <img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/20260326_Google-cloud-platform.svg.png" width=20>          
 &emsp; • Serverless microservice app deployed with Google `Cloud Run` (Kubernetes)             
 &emsp; • App architecture: Google Firebase, database REST API service, frontend service   
