@@ -140,7 +140,7 @@ Sep 07, 2023 [**Github Actions**](https://github.com/Nov05/action-push-kaggle-da
 Sep 02, 2023 Python, Rodrigo's click counter[【my notebook】](https://github.com/Nov05/Google-Colaboratory/blob/master/20230902_Rodrigo_click_counter_in_Python.ipynb)  
 Sep 01, 2023 Python, abstract vs. interface classes, library **ABC** or **typing.Protocol**?[【my notebook】](https://colab.research.google.com/drive/176bHrpwqf0lpmcaWDTBVl8yMcAYkdHPE)  
 Jul 07, 2023 Python,[【my notebook】](https://colab.research.google.com/drive/1qw4aG77bXoeMSmCBlPPYU6LqAHcZ-Zt6)  
-&emsp; • use Python to generate **LaTex** to format [number kalimba tabs for `The Sound of Silence`](https://drive.google.com/file/d/1p7NfhAJnIruL2Zc4BCqAvLDoB0lmbdGz)       
+&emsp; • use Python to generate **LaTex** to format [kalimba tabs for `The Sound of Silence`](https://drive.google.com/file/d/1p7NfhAJnIruL2Zc4BCqAvLDoB0lmbdGz)       
 &emsp; • how to calculate **midi** music duration in seconds  
 Jul 06, 2023 tried out [the notebook](https://colab.research.google.com/drive/1yMps7e5zE81nwvIeqPy3TCQsfbsxnjx7) created by charbilalo@gmail.com  
 &emsp; • use the Python library **music21** to create Woogie Boogie music  
