@@ -134,6 +134,7 @@ Oct 1~31, 2022 SAP Octoberfest 2022 Winner [<img src="https://raw.githubusercont
 
 # **Others**    
 
+Aug 05, 2026 HTML/JavaScript/JSON, build [a simple static site](https://nov05.github.io/kalimba/) in 20 minutes with an LLM [<img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/icons/youtube_red_2000x2000.png" width=20>](https://www.youtube.com/watch?v=bR0aqGosTc4)  
 Jul 14, 2026 Python, generate **LaTex** to format [kalimba tabs for `Canon in D`](https://drive.google.com/file/d/1OmaTGTYbx6XP1G5_In4h4GUbxOmWDl1E),[【my notebook】](https://colab.research.google.com/drive/1w93pM47Os2YSGNsdM1XUtOW6yPiFZR4Q)     
 Nov 08, 2023 Python, [completed all 5 levels](https://github.com/Nov05/pictures/blob/master/leetcode/001/F-aBXw0aQAEDDfr.jpg?raw=true) of [**Google Foobar** code challenge](https://foobar.withgoogle.com/?eid=9QV4r), 9+1 problems in total[【my notebook】](https://colab.research.google.com/drive/1KdZDv-HS5zCKzJIUzsHE7Hu56NIIa-Vf)<img src="https://raw.githubusercontent.com/Nov05/pictures/f61c8960d2e89d4afd795cea41e077659133b80b/icons/google-icon-logo.svg" width=20>    
 Sep 07, 2023 [**Github Actions**](https://github.com/Nov05/action-push-kaggle-dataset), use it to [create a workflow](https://github.com/Nov05/kaggle--feedback-prize-ell/tree/main/.github/workflows) that uploads a repo as [a dataset to Kaggle](https://www.kaggle.com/datasets/wenjingliu/kaggle--feedback-prize-ell)    
